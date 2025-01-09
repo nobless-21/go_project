@@ -1,0 +1,7 @@
+{
+    "port": ":9009",
+    "loglevel": "error",
+    "store": {
+        "database_url": "host=localhost dbname=restapi user=sasha password=1 sslmode=disable"
+    }
+}
