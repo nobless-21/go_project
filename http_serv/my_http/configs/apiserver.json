@@ -1,7 +1,0 @@
-{
-    "port": ":8080",
-    "loglevel": "debug",
-    "store": {
-        "database_url": "host=localhost dbname=restapi user=sasha password=1 sslmode=disable"
-    }
-}
